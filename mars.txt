@@ -3,5 +3,4 @@ something new after the git add command
 
 new line
 this very line
-mod from master
-probably git will ask for help
+new patch
