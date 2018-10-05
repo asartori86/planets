@@ -1,1 +1,4 @@
 red planet
+something new after the git add command
+
+new line
